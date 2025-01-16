@@ -1,17 +1,21 @@
 ## Евлентьев Константин
 
-Всем привет
-<!--
-**Konstantin1spb/Konstantin1spb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Занимаюсь веб разработкой с 2019 года. Намерен продолжать развиваться в данном направлении, изучать новое и оттачивать уже имеющиеся профессиональные навыки.
 
-Here are some ideas to get you started:
+Мой основной технологический стек:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React
+* Redux
+* JavaScript
+* TypeScript
+* NodeJS
+* Git
+* WebPack
+* HTML/CSS
+* Docker
+
+Вы можете связаться со мной в Telegram: [@kostya_48](https://t.me/kostya_48)
+
+[Мое резюме](https://spb.hh.ru/resume/70429ba0ff0c5535380039ed1f714f68516675)
+
+Спасибо!
