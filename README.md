@@ -14,6 +14,8 @@
 * HTML/CSS
 * Docker
 
+Ниже представлены примеры моего кода
+
 Вы можете связаться со мной в Telegram: [@kostya_48](https://t.me/kostya_48)
 
 [Мое резюме](https://spb.hh.ru/resume/70429ba0ff0c5535380039ed1f714f68516675)
