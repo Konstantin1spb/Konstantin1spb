@@ -1,23 +1,15 @@
-## Евлентьев Константин
+# Konstantin Evlentev
 
-Занимаюсь веб разработкой с 2019 года. Намерен продолжать развиваться в данном направлении, изучать новое и оттачивать уже имеющиеся профессиональные навыки.
+Frontend developer. I’ve been building for the web since **2019**: shipping interfaces, working on client-side architecture, and keeping the stack sharp.
 
-Мой основной технологический стек:
+## Skills
 
-* React
-* Redux
-* JavaScript
-* TypeScript
-* NodeJS
-* Git
-* WebPack
-* HTML/CSS
-* Docker
+**Frontend:** TypeScript, JavaScript, React, Next.js, Nuxt.js, HTML, CSS / SASS, Ant Design, Storybook  
+**State & data:** Effector, Zustand, Redux, REST APIs, WebSocket  
+**Architecture:** Module Federation, Micro-Frontends, SSR  
+**Testing:** Playwright, Jest, Vitest  
+**Tooling:** Webpack, Vite, Git, Node.js, Docker, Podman, GitLab CI/CD
 
-Ниже представлены примеры моего кода
+## Contact
 
-Вы можете связаться со мной в Telegram: [@kostya_48](https://t.me/kostya_48)
-
-[Мое резюме](https://spb.hh.ru/resume/70429ba0ff0c5535380039ed1f714f68516675)
-
-Спасибо!
+Telegram: [@kostya_48](https://t.me/kostya_48)
